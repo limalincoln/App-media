@@ -1,0 +1,11 @@
+C:\Users\Linco\source\repos\Mediacalculo\Mediacalculo\obj\Debug\Mediacalculo.csproj.AssemblyReference.cache
+C:\Users\Linco\source\repos\Mediacalculo\Mediacalculo\obj\Debug\Mediacalculo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Linco\source\repos\Mediacalculo\Mediacalculo\obj\Debug\Mediacalculo.Form1.resources
+C:\Users\Linco\source\repos\Mediacalculo\Mediacalculo\obj\Debug\Mediacalculo.Properties.Resources.resources
+C:\Users\Linco\source\repos\Mediacalculo\Mediacalculo\obj\Debug\Mediacalculo.csproj.GenerateResource.cache
+C:\Users\Linco\source\repos\Mediacalculo\Mediacalculo\obj\Debug\Mediacalculo.csproj.CoreCompileInputs.cache
+C:\Users\Linco\source\repos\Mediacalculo\Mediacalculo\bin\Debug\Mediacalculo.exe.config
+C:\Users\Linco\source\repos\Mediacalculo\Mediacalculo\bin\Debug\Mediacalculo.exe
+C:\Users\Linco\source\repos\Mediacalculo\Mediacalculo\bin\Debug\Mediacalculo.pdb
+C:\Users\Linco\source\repos\Mediacalculo\Mediacalculo\obj\Debug\Mediacalculo.exe
+C:\Users\Linco\source\repos\Mediacalculo\Mediacalculo\obj\Debug\Mediacalculo.pdb
